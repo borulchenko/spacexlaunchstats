@@ -9,7 +9,9 @@ $ npm run build
 ```
 
 Create an account in https://dashboard.heroku.com or use existing one.
+
 Go to https://devcenter.heroku.com/categories/command-line and install heroku-cli.
+
 Go to the root directory of the project, and create heroku project running:
 
 ```sh
